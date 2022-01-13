@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=DANBI%20PARK&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer&descAlignY=62&descAlign=68)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=항상+성실히+임하는;가치를+추구하는;)](https://git.io/typing-svg)
+
+<br><br><br>
+
 ![danbi-park's github stats](https://github-readme-stats.vercel.app/api?username=danbi-park&show_icons=true)
 [![danbi-park's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danbi-park&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/danbi-park)
 
@@ -40,4 +44,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+<br><br><br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+Thank+for+visit+me!.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
+<br><br><br>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you&fontSize=90)
