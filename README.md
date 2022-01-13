@@ -1,8 +1,13 @@
 <div align="center">
 <br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=%2367B8D7&size=35&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Danbi.;Hello%2C+I'm+a+Back-End+Developer.)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/86641773/149305965-a569d0a7-8e43-4c94-b971-7233b02e0f54.gif" width="100" height="100"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=%236C6C6C&size=35&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Danbi.;Hello%2C+I'm+a+Back-End+Developer.)](https://git.io/typing-svg)
+  
+<!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236C6C6C&size=35&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Danbi.;Hello%2C+I'm+a+Back-End+Developer.)](https://git.io/typing-svg) -->
+
+  
 <br><br>
 
 </div>
@@ -31,10 +36,12 @@
 ![danbi-park's github stats](https://github-readme-stats.vercel.app/api?username=danbi-park&show_icons=true)
 [![danbi-park's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danbi-park&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/danbi-park)
 
-
+<div align="end">
+  
 [![danbi-park's github activity graph](https://activity-graph.herokuapp.com/graph?username=danbi-park&theme=react-dark)](https://github.com/danbi-park)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanbi-park&count_bg=%23C8E662&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
 
 
  
